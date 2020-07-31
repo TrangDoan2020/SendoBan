@@ -1,0 +1,478 @@
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Enter Email/Phone Number: 0938586131 on Seller
+[main] INFO  LoginOnSellerPageObject  - Enter Password: 123456@ on Seller
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  LoginOnSellerPageObject  - Click Login button on Seller
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  AbstractTest  - ---TC_Login_01_EnterNoPassword---
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check stock available
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Check stock available
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Check stock available
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Click Choose Size
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
