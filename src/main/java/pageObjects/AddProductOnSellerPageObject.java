@@ -21,10 +21,10 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER1);
     }
 
-    public void closedBannerPopup2(){
-        logger.info("Closed banner popup");
-        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER2);
-    }
+//    public void closedBannerPopup2(){
+//        logger.info("Closed banner popup");
+//        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER2);
+//    }
 
     public void scrollLeftMenu(){
         logger.info("Scroll Left Menu");

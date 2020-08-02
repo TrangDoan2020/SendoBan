@@ -33,7 +33,7 @@ public class AddProductOnSeller extends AbstractTest {
 
         loginOnSellerPage.loginOnSeller(email,password);
         addProductOnSellerPageObject.closedBannerPopup1();
-        addProductOnSellerPageObject.closedBannerPopup2();
+        //addProductOnSellerPageObject.closedBannerPopup2();
         addProductOnSellerPageObject.scrollLeftMenu();
         addProductOnSellerPageObject.clickLinkProduct();
         addProductOnSellerPageObject.clickLinkAddProduct();

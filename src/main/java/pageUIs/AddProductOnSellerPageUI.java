@@ -2,11 +2,12 @@ package pageUIs;
 
 public class AddProductOnSellerPageUI {
     public static final String POPUP_BANNER1 = "//span[@class='_2ee3b']";
-    public static final String POPUP_BANNER2 = "//span[@class='_2ee3b']";
+    //public static final String POPUP_BANNER2 = "//span[@class='_2ee3b']";
     //public static final String POPUP_BANNER = "//i[@class= 'close_banner_dashboard']";
     //public static final String LNK_PRODUCT = "//a[@class='dropdown-toggle']//span[contains(text(),'Sản phẩm')]";
     public static final String LNK_PRODUCT = "//span[@class='d2ffa undefined d87aa _3a16b'][contains(text(),'Sản phẩm')]";
-    public static final String LNK_ADD_PRODUCT = "//a[contains(text(),'Đăng sản phẩm')]";
+    //public static final String LNK_ADD_PRODUCT = "//a[contains(text(),'Đăng sản phẩm')]";
+    public static final String LNK_ADD_PRODUCT = "//div[@class='leftMenu_2Tab']//li[2]//a[1]//span[1]";
     public static final String POPUP_PRODUCT = "//div[@class='modal-dialog modal-sm']//button[@class='btn btn-danger'][contains(text(),'Đồng ý')]";
     public static final String UPLOAD_IMAGE = "//button[contains(@class,'btn btn-success btn_up_img btn-sm upimg')]";
     public static final String ADD_FILES = "//a[@id='uploader_browse']";

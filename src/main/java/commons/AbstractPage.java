@@ -2,10 +2,12 @@ package commons;
 
 import org.json.JSONObject;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import pageUIs.AddProductOnSellerPageUI;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
@@ -99,9 +101,6 @@ public class AbstractPage {
 
     // Wait Element
     public void waitToElementVisible(WebDriver driver, long timeOuts, String locator){
-        JavascriptExecutor jse = (JavascriptExecutor)driver;
-        jse.executeScript("window.scrollBy(0,250)", "");
-        wait = new WebDriverWait(driver, timeOuts);
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(locator)));
     }
 
@@ -199,11 +198,20 @@ public class AbstractPage {
         Select select = new Select(element);
         select.selectByVisibleText(optionvalue);
     }
+//
+//    public void selectOptionFromDropdown1(WebDriver driver, String locator){
+//        //WebElement selectMyElement = driver.findElement(this.getObject(AddProductOnSellerPageUI.DRP_UNIT)));
+//        WebElement selectMyElement = driver.findElement(this.getObject(By.xpath(locator))));
+//        selectMyElement.click();
+//
+//        Actions keyDown = new Actions(driver);
+//        keyDown.sendKeys(Keys.chord(Keys.DOWN, Keys.DOWN)).perform();
+//    }
 
     public void scrollWithInElement(WebDriver driver){
         EventFiringWebDriver eventFiringWebDriver = new EventFiringWebDriver(driver);
-        //eventFiringWebDriver.executeScript("document.querySelector('div[class=\"leftMenu_3upG\"]').scrollTop = 400");
-        eventFiringWebDriver.executeScript("document.querySelector('span[class=\"d2ffa undefined d87aa _3a16b\"]').scrollTop = 400");
+        eventFiringWebDriver.executeScript("document.querySelector('div[class=\"leftMenu_2Tab\"]').scrollTop = 400");
+        //eventFiringWebDriver.executeScript("document.querySelector('span[class=\"d2ffa undefined d87aa _3a16b\"]').scrollTop = 400");
     }
 
 }
