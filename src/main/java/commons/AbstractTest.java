@@ -38,7 +38,7 @@ public class AbstractTest {
         productListOnSellerPageObject = new ProductListOnSellerPageObject(driver);
     }
 
-    @AfterClass
+    //@AfterClass
     public void afterMethod(){
         closeBrowser(driver);
     }
@@ -66,5 +66,10 @@ public class AbstractTest {
 
     public void openUrl(WebDriver driver, String url){
         driver.get(url);
+    }
+
+    public String randomText(){
+        String text = "ProductCode" + Math.random();
+        return text;
     }
 }

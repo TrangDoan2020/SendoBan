@@ -2,10 +2,11 @@ package pageObjects;
 
 import commons.AbstractPage;
 import org.apache.log4j.Logger;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import pageUIs.AddProductOnSellerPageUI;
-import org.openqa.selenium.JavascriptExecutor;
 
 public class AddProductOnSellerPageObject extends AbstractPage {
     WebDriver driver;
@@ -24,6 +25,11 @@ public class AddProductOnSellerPageObject extends AbstractPage {
 //    public void closedBannerPopup2(){
 //        logger.info("Closed banner popup");
 //        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER2);
+//    }
+//
+//    public void closedBannerPopup3(){
+//        logger.info("Closed banner popup");
+//        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER3);
 //    }
 
     public void scrollLeftMenu(){
@@ -62,6 +68,13 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         uploadFileWithRobot(filePath);
     }
 
+    public void verifyFileUploadSuccess(){
+        logger.info("Verify file upload success");
+        String locator = String.format(AddProductOnSellerPageUI.TEXT_UPLOAD_SUCCESS, "Đã xong 1/1");
+        WebElement element = findElementByXpath(driver, locator);
+        Assert.assertTrue(element.isDisplayed());
+    }
+
     public void clickClosePopupUploadImage(){
         logger.info("Click close popup upload image");
         waitToElementsIsNotVisible(driver, 5, AddProductOnSellerPageUI.LOADING);
@@ -80,19 +93,22 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         clickElement(driver, AddProductOnSellerPageUI.BTN_CHOOSE_CATEGORY);
     }
 
-    public void clickChooseCategoryLevel1(){
+    public void clickChooseCategoryLevel1(String cateLv1){
         logger.info("Click choose category level 1");
-        clickElement(driver, AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL1);
+        String locator = String.format(AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL1, cateLv1);
+        clickElement(driver, locator);
     }
 
-    public void clickChooseCategoryLevel2(){
+    public void clickChooseCategoryLevel2(String cateLv2){
         logger.info("Click choose category level 2");
-        clickElement(driver, AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL2);
+        String locator = String.format(AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL2, cateLv2);
+        clickElement(driver, locator);
     }
 
-    public void clickChooseCategoryLevel3(){
+    public void clickChooseCategoryLevel3(String cateLv3){
         logger.info("Click choose category level 3");
-        clickElement(driver, AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL3);
+        String locator = String.format(AddProductOnSellerPageUI.CHOOSE_CATEGORY_LEVEL3, cateLv3);
+        clickElement(driver, locator);
     }
 
     public void enterProductNameIntoTextbox(String productName){
@@ -105,20 +121,23 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         setText(driver, AddProductOnSellerPageUI.TXT_PRODUCT_CODE, productCode);
     }
 
-    public void checkProductType(){
+    public void checkProductType(String productType){
         logger.info("Check product type");
-        clickElement(driver, AddProductOnSellerPageUI.RAD_PRODUCT_TYPE);
+        String locator = String.format(AddProductOnSellerPageUI.RAD_PRODUCT_TYPE, productType);
+        clickElement(driver, locator);
     }
 
     public void checkStockAvailable(){
         logger.info("Check stock available");
-        clickElement(driver, String.format(AddProductOnSellerPageUI.STOCK_AVAILABLE_CHECKBOX));
+        clickElement(driver, AddProductOnSellerPageUI.STOCK_AVAILABLE_CHECKBOX);
     }
 
-    public void selectUnit(String unit){
-        logger.info("Select Unit");
-        WebElement element = findElementByXpath(driver, AddProductOnSellerPageUI.DRP_UNIT);
-        selectOptionFromDropdown(element, unit);
+    public void selectUnitItemFromDropDown(String textBoxName, String item){
+        logger.info("Select item from dropdown");
+        String textBoxLocator = String.format(AddProductOnSellerPageUI.UNIT_TEXTBOX, textBoxName);
+        clickElement(driver, textBoxLocator);
+        String itemLocator = String.format(AddProductOnSellerPageUI.ITEM_FROM_DROPDOWN, item);
+        clickElement(driver, itemLocator);
     }
 
     public void enterWeightIntoTextbox(String weight){
@@ -131,11 +150,29 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         clickElement(driver, String.format(AddProductOnSellerPageUI.CARRIER_PACKAGE_CHECKBOX, carrierpackage));
     }
 
-    public void clickChooseSize(String size){
-        logger.info("Click Choose Size");
-        WebElement element = findElementByXpath(driver, AddProductOnSellerPageUI.CHOOSE_SIZE);
-        selectOptionFromDropdown(element, size);
+    public void scrollDownAddProduct(){
+        logger.info("Scroll Down Add Product");
+        scrollDown(driver);
     }
+
+    public void selectSizeItemFromDropDown(String textBoxName, String item){
+        logger.info("Select item from dropdown");
+        String textBoxLocator = String.format(AddProductOnSellerPageUI.SIZE_TEXTBOX, textBoxName);
+        clickElement(driver, textBoxLocator);
+        String itemLocator = String.format(AddProductOnSellerPageUI.ITEM_FROM_DROPDOWN, item);
+        clickElement(driver, itemLocator);
+    }
+
+//    public void clickChooseSize(String size){
+//        logger.info("Click Choose Size");
+//        WebElement element = findElementByXpath(driver, AddProductOnSellerPageUI.CHOOSE_SIZE);
+//        selectOptionFromDropdown(element, size);
+//    }
+
+    public void clickEsc() {
+        useEsc(driver);
+    }
+
 
     public void clickColour(){
         logger.info("Click Colour");
@@ -145,6 +182,10 @@ public class AddProductOnSellerPageObject extends AbstractPage {
     public void selectColour(String colour){
         logger.info("Select Colour");
         clickElement(driver, String.format(AddProductOnSellerPageUI.CHOOSE_COLOUR, colour));
+    }
+
+    public void closePopUpColour(){
+        closePopup(driver, AddProductOnSellerPageUI.CLOSE_CHOOSE_COLOUR);
     }
 
     public void enterPriceIntoTextbox(String price){

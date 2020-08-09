@@ -7,6 +7,7 @@
 [main] INFO  AddProductOnSellerPageObject  - Click Upload Image
 [main] INFO  AddProductOnSellerPageObject  - Click Add File
 [main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
 [main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
 [main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
 [main] INFO  AddProductOnSellerPageObject  - Click button choose Category
@@ -14,6 +15,14 @@
 [main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
 [main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
 [main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
-[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ĐX1907 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.004234402875053389 into textbox
 [main] INFO  AddProductOnSellerPageObject  - Check product type
-[main] INFO  AddProductOnSellerPageObject  - Select Unit
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox

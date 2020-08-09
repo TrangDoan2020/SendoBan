@@ -7,7 +7,6 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import pageUIs.AddProductOnSellerPageUI;
 
 import java.awt.*;
 import java.awt.datatransfer.Clipboard;
@@ -101,6 +100,7 @@ public class AbstractPage {
 
     // Wait Element
     public void waitToElementVisible(WebDriver driver, long timeOuts, String locator){
+        wait = new WebDriverWait(driver, timeOuts);
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(locator)));
     }
 
@@ -214,4 +214,13 @@ public class AbstractPage {
         //eventFiringWebDriver.executeScript("document.querySelector('span[class=\"d2ffa undefined d87aa _3a16b\"]').scrollTop = 400");
     }
 
+    public void scrollDown(WebDriver driver){
+        JavascriptExecutor jse = (JavascriptExecutor)driver;
+        jse.executeScript("window.scrollBy(0,400)", "");
+    }
+
+    public static void useEsc(WebDriver driver){
+       Actions action = new Actions(driver);
+        action.sendKeys(Keys.ESCAPE).perform();
+    }
 }

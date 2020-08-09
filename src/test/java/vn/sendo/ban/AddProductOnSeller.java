@@ -11,14 +11,18 @@ public class AddProductOnSeller extends AbstractTest {
     String password ="123456@";
 
     String imagePath = GlobalConstants.projectPath + "\\src\\main\\resources\\comayman.jpg";
+    String cateLv1 = "Thời trang nữ";
+    String cateLv2 = "Đầm, váy";
+    String cateLv3 = "Đầm xòe";
     String product_name ="Đầm xòe thời trang";
-    String product_code ="ĐX1907";
+    String product_code = randomText();
+    String productType = "Sản phẩm vật lý";
     //String stock_available = "Còn hàng";
     String unit = "Cái";
     String weight = "150";
     String carrier_package = "Chuyển phát hỏa tốc";
     String size = "28";
-    String colour = "Cam";
+    String colour = "Hồng";
     String price = "500000";
     String quantity = "1000";
     String sku_user = "SKU1";
@@ -33,7 +37,8 @@ public class AddProductOnSeller extends AbstractTest {
 
         loginOnSellerPage.loginOnSeller(email,password);
         addProductOnSellerPageObject.closedBannerPopup1();
-        //addProductOnSellerPageObject.closedBannerPopup2();
+//        addProductOnSellerPageObject.closedBannerPopup2();
+//        addProductOnSellerPageObject.closedBannerPopup3();
         addProductOnSellerPageObject.scrollLeftMenu();
         addProductOnSellerPageObject.clickLinkProduct();
         addProductOnSellerPageObject.clickLinkAddProduct();
@@ -41,25 +46,33 @@ public class AddProductOnSeller extends AbstractTest {
         addProductOnSellerPageObject.clickUploadImage();
         addProductOnSellerPageObject.clickAddFile();
         addProductOnSellerPageObject.selectAPhotoFromComputer(imagePath);
+        addProductOnSellerPageObject.verifyFileUploadSuccess();
         addProductOnSellerPageObject.clickClosePopupUploadImage();
         addProductOnSellerPageObject.waitUploadPopupDisappear();
         addProductOnSellerPageObject.clickButtonChooseCategory();
-        addProductOnSellerPageObject.clickChooseCategoryLevel1();
-        addProductOnSellerPageObject.clickChooseCategoryLevel2();
-        addProductOnSellerPageObject.clickChooseCategoryLevel3();
+        addProductOnSellerPageObject.clickChooseCategoryLevel1(cateLv1);
+        addProductOnSellerPageObject.clickChooseCategoryLevel2(cateLv2);
+        addProductOnSellerPageObject.clickChooseCategoryLevel3(cateLv3);
         addProductOnSellerPageObject.enterProductNameIntoTextbox(product_name);
         addProductOnSellerPageObject.enterProductCodeIntoTextbox(product_code);
-        addProductOnSellerPageObject.checkProductType();
-        //addProductOnSellerPageObject.checkStockAvailable();
-        addProductOnSellerPageObject.selectUnit(unit);
+        addProductOnSellerPageObject.checkProductType(productType);
+//      addProductOnSellerPageObject.checkStockAvailable();
+        addProductOnSellerPageObject.selectUnitItemFromDropDown("Đơn vị", unit);
         addProductOnSellerPageObject.enterWeightIntoTextbox(weight);
         addProductOnSellerPageObject.checkCarrierPackage(carrier_package);
-        addProductOnSellerPageObject.clickChooseSize(size);
+        addProductOnSellerPageObject.scrollDownAddProduct();
+        // Viết 1 cái step scroll down xuống tầm 300px để thấy các elements bên dưới rồi chạy các steps dưới
+        addProductOnSellerPageObject.selectSizeItemFromDropDown("Chọn thuộc tính", size);
+        addProductOnSellerPageObject.clickEsc();
         addProductOnSellerPageObject.clickColour();
         addProductOnSellerPageObject.selectColour(colour);
+        addProductOnSellerPageObject.closePopUpColour();
+        addProductOnSellerPageObject.scrollDownAddProduct();
         addProductOnSellerPageObject.enterPriceIntoTextbox(price);
+        //addProductOnSellerPageObject.enterPriceIntoTextbox("(Trên 8.000 VNĐ)", price);
         addProductOnSellerPageObject.enterQuantityIntoTextbox(quantity);
         addProductOnSellerPageObject.enterSKUUserIntoTextbox(sku_user);
+        addProductOnSellerPageObject.scrollDownAddProduct();
         addProductOnSellerPageObject.enterDescriptionIntoTextbox(description);
         addProductOnSellerPageObject.clickSubmitProduct();
 
