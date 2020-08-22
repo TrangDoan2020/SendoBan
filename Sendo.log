@@ -1,5 +1,7 @@
 [main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
 [main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
 [main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
 [main] INFO  AddProductOnSellerPageObject  - Click link Product
 [main] INFO  AddProductOnSellerPageObject  - Click link Add Product
@@ -15,14 +17,23 @@
 [main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
 [main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
 [main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
-[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.004234402875053389 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.19895883942175696 into textbox
 [main] INFO  AddProductOnSellerPageObject  - Check product type
 [main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
 [main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
 [main] INFO  AddProductOnSellerPageObject  - Check carrier package
 [main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
 [main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
 [main] INFO  AddProductOnSellerPageObject  - Click Colour
 [main] INFO  AddProductOnSellerPageObject  - Select Colour
 [main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
-[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự

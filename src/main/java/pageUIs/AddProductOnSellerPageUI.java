@@ -1,7 +1,7 @@
 package pageUIs;
 
 public class AddProductOnSellerPageUI {
-    public static final String POPUP_BANNER1 = "//span[@class='_2ee3b']";
+    public static final String POPUP_BANNER = "//span[@class='_2ee3b']";
     public static final String POPUP_BANNER2 = "//span[@class='_2ee3b']";
     public static final String POPUP_BANNER3 = "//span[@class='_2ee3b']";
     //public static final String POPUP_BANNER = "//i[@class= 'close_banner_dashboard']";
@@ -34,11 +34,13 @@ public class AddProductOnSellerPageUI {
     public static final String CLICK_COLOUR = "//div[@class='bg-color']";
     public static final String CHOOSE_COLOUR = "//label[contains(text(),'%s')]";
     public static final String CLOSE_CHOOSE_COLOUR = "//span[@class='list-color-close']";
-    public static final String TXT_PRICE = "//input[@placeholder='(Trên 8.000 VNÐ)']";
+    public static final String TXT_PRICE = "//input[@placeholder='(Trên 8.000 VNĐ)']";
     //public static final String TXT_PRICE = "//input[@placeholder='%s']";
     public static final String TXT_QUANTITY = "//td[6]//input[1]";
     public static final String TXT_SKU_USER = "//td[7]//input[1]";
-    public static final String TXT_DESCRIPTION = "//label[contains(text(),'%s)]";
+    public static final String ATTRIBUTE = "//div[label/span[text()='%s']]/following-sibling::div//div[contains(@class,'selectize-input')]/input";
+    public static final String TXT_DESCRIPTION = "//iframe[@id='mce_0_ifr']";
+    //public static final String TXT_DESCRIPTION = "//label[contains(text(),'Nhập mô tả: 100-100000 ký tự']";
     public static final String BTN_SUBMIT_PRODUCT = "//div[@class='col-lg-9 col-md-8']//button[3]";
-
+    public static final String DESCRIPTION_ERROR_MESSAGE = "//div[@class='toast toast-warning']";
 }

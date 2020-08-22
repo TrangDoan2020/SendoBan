@@ -223,4 +223,18 @@ public class AbstractPage {
        Actions action = new Actions(driver);
         action.sendKeys(Keys.ESCAPE).perform();
     }
+
+    public void closeAllPopupOnSeller(WebDriver driver, String locator){
+        List<WebElement> allPopups = findElementsByXpath(driver, locator);
+        for(WebElement popup : allPopups){
+            popup.click();
+        }
+    }
+
+    public void inputIframe(WebDriver driver, String value){
+        driver.switchTo().frame(0);
+        driver.switchTo().activeElement().sendKeys(value);
+        driver.switchTo().defaultContent();
+    }
+
 }

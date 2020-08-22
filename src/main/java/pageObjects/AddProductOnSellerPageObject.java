@@ -17,20 +17,25 @@ public class AddProductOnSellerPageObject extends AbstractPage {
         driver = _driver;
     }
 
+//    public void closedAllBannerPopup(){
+//        logger.info("Closed all banner popup");
+//        closeAllPopupOnSeller(driver, "//span[@class='_2ee3b']");
+//    }
+
     public void closedBannerPopup1(){
         logger.info("Closed banner popup");
-        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER1);
+        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER);
     }
 
-//    public void closedBannerPopup2(){
-//        logger.info("Closed banner popup");
-//        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER2);
-//    }
-//
-//    public void closedBannerPopup3(){
-//        logger.info("Closed banner popup");
-//        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER3);
-//    }
+    public void closedBannerPopup2(){
+        logger.info("Closed banner popup");
+        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER2);
+    }
+
+    public void closedBannerPopup3(){
+        logger.info("Closed banner popup");
+        closePopup(driver, AddProductOnSellerPageUI.POPUP_BANNER3);
+    }
 
     public void scrollLeftMenu(){
         logger.info("Scroll Left Menu");
@@ -195,21 +200,45 @@ public class AddProductOnSellerPageObject extends AbstractPage {
 
     public void enterQuantityIntoTextbox(String quantity){
         logger.info("Enter Quantity " + quantity + " into textbox");
-        setText(driver, AddProductOnSellerPageUI.TXT_PRICE, quantity);
+        setText(driver, AddProductOnSellerPageUI.TXT_QUANTITY, quantity);
     }
 
-    public void enterSKUUserIntoTextbox(String skuuser){
-        logger.info("Enter SKU User " + skuuser + " into textbox");
-        setText(driver, AddProductOnSellerPageUI.TXT_SKU_USER, skuuser);
+    public void enterSKUUserIntoTextbox(String skuUser){
+        logger.info("Enter SKU User " + skuUser + " into textbox");
+        setText(driver, AddProductOnSellerPageUI.TXT_SKU_USER, skuUser);
+    }
+
+
+    public void chooseFabric(String textBoxName, String item){
+        logger.info("Select item from dropdown");
+        String textBoxLocator = String.format(AddProductOnSellerPageUI.ATTRIBUTE, textBoxName);
+        clickElement(driver, textBoxLocator);
+        String itemLocator = String.format(AddProductOnSellerPageUI.ITEM_FROM_DROPDOWN, item);
+        clickElement(driver, itemLocator);
+    }
+
+    public void chooseSkirtLength(String skirtlength, String item){
+        logger.info("Choose Attribute " + skirtlength + " into textbox");
+        String textBoxLocator = String.format(AddProductOnSellerPageUI.ATTRIBUTE, skirtlength);
+        clickElement(driver, textBoxLocator);
+        String itemLocator = String.format(AddProductOnSellerPageUI.ITEM_FROM_DROPDOWN, item);
+        clickElement(driver, itemLocator);
     }
 
     public void enterDescriptionIntoTextbox(String description){
         logger.info("Enter Description " + description + " into textbox");
-        setText(driver, AddProductOnSellerPageUI.TXT_SKU_USER, description);
+        inputIframe(driver, AddProductOnSellerPageUI.TXT_DESCRIPTION);
+        //setText(driver, AddProductOnSellerPageUI.TXT_DESCRIPTION, description);
     }
 
     public void clickSubmitProduct(){
         logger.info("Click submit product");
         clickElement(driver, AddProductOnSellerPageUI.BTN_SUBMIT_PRODUCT);
+    }
+
+    public String getDescriptionErrorMessage(){
+        String actualResult = getTextElement(driver, AddProductOnSellerPageUI.DESCRIPTION_ERROR_MESSAGE);
+        logger.info("Get Description error message " + actualResult);
+        return actualResult;
     }
 }

@@ -1499,3 +1499,935 @@
 [main] INFO  AddProductOnSellerPageObject  - Select Colour
 [main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
 [main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed all banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed all banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.341251853574427 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.9100665351711256 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed all banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.08848361321597742 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.5171228138562712 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.7174393060433899 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.2573067881837434 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.1073463843846918 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 500000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.8321100438765595 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.4010299945775604 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Ren into textbox
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Trên gối into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.5308012045813431 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Ren into textbox
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.9244952768769871 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.30989409302721993 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.6078955668942995 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang into textbox
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.011220174532928562 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.7786387160005029 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.6856937383554778 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get FirstName error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.9042813376236017 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get FirstName error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.09649851304627621 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.16429071907606974 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.14570589835861125 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.898323530143896 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed all banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed all banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AbstractTest  - ---TC_Add Product_01_Success---
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Closed banner popup
+[main] INFO  AddProductOnSellerPageObject  - Scroll Left Menu
+[main] INFO  AddProductOnSellerPageObject  - Click link Product
+[main] INFO  AddProductOnSellerPageObject  - Click link Add Product
+[main] INFO  AddProductOnSellerPageObject  - Closed product popup
+[main] INFO  AddProductOnSellerPageObject  - Click Upload Image
+[main] INFO  AddProductOnSellerPageObject  - Click Add File
+[main] INFO  AddProductOnSellerPageObject  - Select a photo from computer
+[main] INFO  AddProductOnSellerPageObject  - Verify file upload success
+[main] INFO  AddProductOnSellerPageObject  - Click close popup upload image
+[main] INFO  AddProductOnSellerPageObject  - Wait upload popup disappear
+[main] INFO  AddProductOnSellerPageObject  - Click button choose Category
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 1
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 2
+[main] INFO  AddProductOnSellerPageObject  - Click choose category level 3
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Name Đầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code ProductCode0.19895883942175696 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Check product type
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Enter Product Code 150 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Check carrier package
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Click Colour
+[main] INFO  AddProductOnSellerPageObject  - Select Colour
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Price 50000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter Quantity 1000 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Enter SKU User SKU1 into textbox
+[main] INFO  AddProductOnSellerPageObject  - Select item from dropdown
+[main] INFO  AddProductOnSellerPageObject  - Choose Attribute Chiều dài váy into textbox
+[main] INFO  AddProductOnSellerPageObject  - Scroll Down Add Product
+[main] INFO  AddProductOnSellerPageObject  - Enter Description Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang into textbox
+[main] INFO  AddProductOnSellerPageObject  - Click submit product
+[main] INFO  AddProductOnSellerPageObject  - Get Description error message Mô tả sản phẩm phải từ 100 đến 100000 ký tự

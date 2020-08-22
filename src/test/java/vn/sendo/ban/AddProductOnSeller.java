@@ -4,7 +4,9 @@ import commons.AbstractTest;
 import commons.GlobalConstants;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Wait;
+import org.testng.Assert;
 import org.testng.annotations.Test;
+import utils.PropertiesUtils;
 
 public class AddProductOnSeller extends AbstractTest {
     String email = "0938586131";
@@ -23,10 +25,12 @@ public class AddProductOnSeller extends AbstractTest {
     String carrier_package = "Chuyển phát hỏa tốc";
     String size = "28";
     String colour = "Hồng";
-    String price = "500000";
+    String price = "50000";
     String quantity = "1000";
     String sku_user = "SKU1";
-    String description = "Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang";
+    String fabric = "Ren";
+    String skirtlength = "Trên gối";
+    String description = "Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trang Đầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trangĐầm xòe thời trang";
 
     Wait<WebDriver> wait;
 
@@ -36,9 +40,10 @@ public class AddProductOnSeller extends AbstractTest {
         logger.info("---TC_Add Product_01_Success---");
 
         loginOnSellerPage.loginOnSeller(email,password);
+        //addProductOnSellerPageObject.closedAllBannerPopup();
         addProductOnSellerPageObject.closedBannerPopup1();
-//        addProductOnSellerPageObject.closedBannerPopup2();
-//        addProductOnSellerPageObject.closedBannerPopup3();
+        addProductOnSellerPageObject.closedBannerPopup2();
+        addProductOnSellerPageObject.closedBannerPopup3();
         addProductOnSellerPageObject.scrollLeftMenu();
         addProductOnSellerPageObject.clickLinkProduct();
         addProductOnSellerPageObject.clickLinkAddProduct();
@@ -59,6 +64,7 @@ public class AddProductOnSeller extends AbstractTest {
 //      addProductOnSellerPageObject.checkStockAvailable();
         addProductOnSellerPageObject.selectUnitItemFromDropDown("Đơn vị", unit);
         addProductOnSellerPageObject.enterWeightIntoTextbox(weight);
+        addProductOnSellerPageObject.scrollDownAddProduct();
         addProductOnSellerPageObject.checkCarrierPackage(carrier_package);
         addProductOnSellerPageObject.scrollDownAddProduct();
         // Viết 1 cái step scroll down xuống tầm 300px để thấy các elements bên dưới rồi chạy các steps dưới
@@ -72,17 +78,17 @@ public class AddProductOnSeller extends AbstractTest {
         //addProductOnSellerPageObject.enterPriceIntoTextbox("(Trên 8.000 VNĐ)", price);
         addProductOnSellerPageObject.enterQuantityIntoTextbox(quantity);
         addProductOnSellerPageObject.enterSKUUserIntoTextbox(sku_user);
+        addProductOnSellerPageObject.chooseFabric("Chất vải",fabric);
+        addProductOnSellerPageObject.clickEsc();
+        addProductOnSellerPageObject.chooseSkirtLength("Chiều dài váy",skirtlength);
         addProductOnSellerPageObject.scrollDownAddProduct();
         addProductOnSellerPageObject.enterDescriptionIntoTextbox(description);
+        //addProductOnSellerPageObject.enterDescriptionIntoTextbox("Nhập mô tả: 100-100000 ký tự",description);
         addProductOnSellerPageObject.clickSubmitProduct();
 
-
-//        String actualResult = loginOnSellerPage.getErrorMessage();
-//        System.out.println(actualResult);
-//        String expectedResult = PropertiesUtils.readPropertiesValue("EMPTY_PASSWORD_ERROR_MESSAGE");
-//
-//        Assert.assertEquals(actualResult, expectedResult,"Error message is not matched!");
-//
-//        loginPage.quitLoginPopup();
+        String actualResult = addProductOnSellerPageObject.getDescriptionErrorMessage();
+        System.out.println(actualResult);
+        String expectedResult = PropertiesUtils.readPropertiesValue("DESCRIPTION_ERROR_MESSAGE");
+        Assert.assertEquals(actualResult, expectedResult,"Error message is not matched!");
     }
 }
